@@ -6,9 +6,6 @@
     background-color: rgba(54, 54, 54, 0.5);
 }
 
-body {
-    background-color: rgb(93, 156, 207);
-}
 
 #myVideo {
     position: fixed;
@@ -17,5 +14,5 @@ body {
     min-width: 100%;
     min-height: 100%;
     z-index: -1;
-    box-shadow: 12px 9px 13px rgba(255, 0, 255, 0.75);
+    object-fit: cover;
 }
