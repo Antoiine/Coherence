@@ -11,7 +11,7 @@ export class NavMenu extends Component {
             <img src="/images/logo.png" alt="logo"/>
             <Link to="/">Accueil</Link>
           </div>
-            <Link className="l2" to="/counter">Informations</Link>
+            <Link className="l2" to="/informations">Informations</Link>
         </div>
       </header>
     );

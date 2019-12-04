@@ -1,0 +1,7 @@
+.informationPage {
+    display: grid;
+}
+
+.informationPage h1 {
+    color: lightcoral;
+}

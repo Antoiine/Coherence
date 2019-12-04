@@ -1,0 +1,21 @@
+.content {
+    width: 80%;
+    margin: auto;   
+    padding: 15px;
+    color: white;
+    background-color: rgba(54, 54, 54, 0.5);
+}
+
+body {
+    background-color: rgb(93, 156, 207);
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    box-shadow: 12px 9px 13px rgba(255, 0, 255, 0.75);
+}
