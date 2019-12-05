@@ -1,18 +1,13 @@
 .content {
     width: 80%;
-    margin: auto;   
+    height: 100%;
+    margin: auto;
+    margin-top: 20px;   
     padding: 15px;
     color: white;
     background-color: rgba(54, 54, 54, 0.5);
 }
 
-
-#myVideo {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-    z-index: -1;
-    object-fit: cover;
+body {
+    background-color: rgba(32, 32, 32, 1);
 }

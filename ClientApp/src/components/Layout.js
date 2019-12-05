@@ -10,9 +10,6 @@ export class Layout extends Component {
       <div>
         <NavMenu />
         <div className="mainWindow">
-          <video autoPlay muted loop id="myVideo">
-            <source src="/videos/water.mp4" type="video/mp4"/>
-          </video>
           <div className="content">
             {this.props.children}
           </div>
